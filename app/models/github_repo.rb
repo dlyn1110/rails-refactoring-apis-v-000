@@ -8,4 +8,3 @@ class GithubRepo
  end
 
 end
-end
