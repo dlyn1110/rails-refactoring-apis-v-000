@@ -1,2 +1,2 @@
-class Github
+class GithubRepo
 end
